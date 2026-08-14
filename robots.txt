@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-omnxrr.pulaucuansite.cfd/sitemap.xml
